@@ -6,7 +6,7 @@ The simple shapes such as squares and circles may seem bland and boring but when
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Simplicity in Rigidity and Fluidity
-Squares and circles are the building blocks of any piece of artwork, The term Simplicity in Rigidity and Fluidity is all about finding the beauty in simple things.
+Squares and circles are the building blocks of any piece of artwork, The term Simplicity in Rigidity and Fluidity is all about finding the beauty in simple things. Another theme for my pattern is Control. The mandala pattern represents control through the containment of the sharp chaotic shapes within a perfect circle, the sharp shapes representing our violent tendencies and the circles our need to supress these urges.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 References:
