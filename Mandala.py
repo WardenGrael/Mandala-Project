@@ -22,10 +22,20 @@ for i in range(8):
 for i in range(8):
     base.left(45)
     for i in range(8):
+        base.pensize(5)
         base.forward(100)
         base.left(45)
 
+
 for i in range(8):
+    base.pensize(5)
+    base.color("white")
+    base.circle(100)
+    base.left(45)
+    
+for i in range(8):
+    base.pensize(3)
+    base.color("blue")
     base.circle(100)
     base.left(45)
 
@@ -37,13 +47,26 @@ circle.penup()
 circle.goto(0, -260.0)
 circle.pendown()
 circle.circle(263)
+circle.color("red")
+circle.pensize(3)
+circle.circle(263)
 circle.penup()
 circle.goto(0,-240)
 circle.pendown()
+circle.color("white")
+circle.pensize(5)
+circle.circle(240)
+circle.color("green")
+circle.pensize(3)
 circle.circle(240)
 circle.penup()
 circle.goto(0,-200)
 circle.pendown()
+circle.color("white")
+circle.pensize(5)
+circle.circle(199)
+circle.color("blue")
+circle.pensize(3)
 circle.circle(199)
 
 def buttonclick(x,y):
